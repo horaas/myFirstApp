@@ -1,3 +1,3 @@
-# miFirstApp0
+# myFirstApp
 
 my first app in NativeScript
